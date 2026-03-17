@@ -1,26 +1,32 @@
-# VPiresdev_-Sobre-mim...
-Um pouco sobre minha trajetória como dev back-end Java
+# Olá, eu sou o Vinicios Pires! 👋
 
-# Olá, eu sou o Vinicios Pires do Prado! 🚀
+### 🎓 Estudante de Engenharia de Software | Aspirante a Desenvolvedor Back-end Java
 
-### 🎓 Estudante de Engenharia de Software | Java Back-end Developer em formação
-
-Estou iniciando minha graduação e focando meus estudos no ecossistema **Java**. Minha meta é construir sistemas seguros, escaláveis e eficientes. 
+Seja bem-vindo ao meu perfil! Estou iniciando minha graduação e focando meus estudos no ecossistema Java. Minha trajetória é marcada pela resiliência e pela capacidade de resolver problemas, competências que desenvolvi em diversas áreas de atuação e que agora aplico no desenvolvimento de software.
 
 ---
 
-### 🛠️ No que estou focado agora:
-- ☕ **Linguagem:** Java (Fundamentos e POO)
-- 🏗️ **Arquitetura:** Engenharia de Software
-- 💾 **Bancos de Dados:** SQL e modelagem de dados
-- 🔧 **Ferramentas:** Git, GitHub e IntelliJ IDEA
+### 💼 Trajetória Profissional
+Minha experiência profissional diversificada me proporcionou uma visão ampla sobre processos de negócio e logística:
+- **Administrativo:** Formação como Assistente Administrativo (Organização e Processos).
+- **Logística e Operações:** Atuação como Estoquista e Entregador (Gestão de fluxo e otimização).
+- **Atendimento e Vendas:** Experiência como Caixa de Mercado e Vendedor (Raciocínio lógico e comunicação).
+- **Técnico:** Trabalho detalhista no ramo de Alimentos e como Sapateiro (Precisão e resolução de problemas).
 
 ---
 
-### 📈 Minhas estatísticas:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=https://Vpires-dev&show_icons=true&theme=dracula)
+### 🛠️ Tecnologias e Ferramentas em Foco:
+- **Linguagens:** Java (Foco Principal), Python.
+- **Engenharia:** Lógica de Programação, Estrutura de Dados e POO.
+- **Versão de Código:** Git & GitHub.
+- **Sistemas:** Windows, FastAPI.
+
+---
+
+### 📈 Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alevinipires-cmd&show_icons=true&theme=dracula)
 
 ---
 
 ### 📫 Vamos nos conectar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicios-pires-do-prado-dev/)
