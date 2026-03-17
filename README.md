@@ -18,7 +18,7 @@ Estou iniciando minha graduação e focando meus estudos no ecossistema **Java**
 ---
 
 ### 📈 Minhas estatísticas:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=https://github.com/alevinipires-cmd/VPiresdev&show_icons=true&theme=dracula)
 
 ---
 
